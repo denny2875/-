@@ -16,7 +16,7 @@ public class Quiz2 {
 		} else if(rpwjf==12 || rpwjf==1 || rpwjf==2) {
 			System.out.println("현재 계절은 겨울입니다.");
 		} else {
-			System.out.println("월이 잘못되었습니다.");
+			System.out.println("15월은 잘못된 값 입니다.");
 		}
 
 	}
